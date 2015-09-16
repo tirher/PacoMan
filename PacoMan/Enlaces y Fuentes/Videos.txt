@@ -1,0 +1,11 @@
+Animacion de imagen con movimiento en Java:
+
+	https://www.youtube.com/watch?v=Z_UTB6wztA0
+
+	https://www.youtube.com/watch?v=1hxQIlSHIeQ
+
+	https://www.youtube.com/watch?v=yBwAV_wcWYw
+
+Hacer gif con las imágenes del pacman y los fantasmas:
+
+	http://picasion.com/
