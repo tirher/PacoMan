@@ -1,0 +1,112 @@
+.s-01_derAbierta, .s-03_derCerrada, .s-02_derMedia, .background, .s-01_downAbierta, .s-03_downCerrada, .s-02_downMedia, .s-01_izqAbierta, .s-02_izqMedia, .s-03_izqCerrada, .s-01_upAbierta, .s-02_upMedia, .s-03_upCerrada, .frutita, .fantasma04, .fantasma01, .fantasma02, .fantasma03{
+	background: url(sprites.png) no-repeat;
+}
+
+.s-01_derAbierta{
+	background-position: 0 -1px ;
+	width: 40px;
+	height: 48px;
+}
+
+.s-03_derCerrada{
+	background-position: -100px -1px ;
+	width: 43px;
+	height: 48px;
+}
+
+.s-02_derMedia{
+	background-position: -49.999996185302734px -1px ;
+	width: 43px;
+	height: 48px;
+}
+
+.background{
+	background-position: -315px 0;
+	width: 325px;
+	height: 352px;
+}
+
+.s-01_downAbierta{
+	background-position: 0 -59px ;
+	width: 48px;
+	height: 40px;
+}
+
+.s-03_downCerrada{
+	background-position: -100px -56px ;
+	width: 48px;
+	height: 43px;
+}
+
+.s-02_downMedia{
+	background-position: -50px -56px ;
+	width: 48px;
+	height: 43px;
+}
+
+.s-01_izqAbierta{
+	background-position: -150.00000762939453px -1px ;
+	width: 40px;
+	height: 48px;
+}
+
+.s-02_izqMedia{
+	background-position: -200px -1px ;
+	width: 43px;
+	height: 48px;
+}
+
+.s-03_izqCerrada{
+	background-position: -250px -1px ;
+	width: 43px;
+	height: 48px;
+}
+
+.s-01_upAbierta{
+	background-position: -149.00000762939453px -59.000003814697266px ;
+	width: 48px;
+	height: 40px;
+}
+
+.s-02_upMedia{
+	background-position: -199.0000228881836px -56.000003814697266px ;
+	width: 48px;
+	height: 43px;
+}
+
+.s-03_upCerrada{
+	background-position: -249.0000228881836px -55.99106979370117px ;
+	width: 48px;
+	height: 43px;
+}
+
+.frutita{
+	background-position: -24px -119.0000114440918px ;
+	width: 7px;
+	height: 8px;
+}
+
+.fantasma04{
+	background-position: -100.00000381469727px -104px ;
+	width: 45px;
+	height: 45px;
+}
+
+.fantasma01{
+	background-position: -150.00000381469727px -104px ;
+	width: 45px;
+	height: 45px;
+}
+
+.fantasma02{
+	background-position: -200.00000381469727px -104px ;
+	width: 45px;
+	height: 45px;
+}
+
+.fantasma03{
+	background-position: -49.99374771118164px -104px ;
+	width: 45px;
+	height: 45px;
+}
+

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PacoMan</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/pacoman/01_derAbierta.png</name>
+			<type>1</type>
+			<location>C:/Users/uht007/Documents/Personal/Facultad - UNLAM/2015/Programacion Avanzada/PacoMan/Imagenes/PacoMan/Finales/Derecha/01_derAbierta.png</location>
+		</link>
+		<link>
+			<name>src/pacoman/01_downAbierta.png</name>
+			<type>1</type>
+			<location>C:/Users/uht007/Documents/Personal/Facultad - UNLAM/2015/Programacion Avanzada/PacoMan/Imagenes/PacoMan/Finales/Down/01_downAbierta.png</location>
+		</link>
+		<link>
+			<name>src/pacoman/01_izqAbierta.png</name>
+			<type>1</type>
+			<location>C:/Users/uht007/Documents/Personal/Facultad - UNLAM/2015/Programacion Avanzada/PacoMan/Imagenes/PacoMan/Finales/Izq/01_izqAbierta.png</location>
+		</link>
+		<link>
+			<name>src/pacoman/01_upAbierta.png</name>
+			<type>1</type>
+			<location>C:/Users/uht007/Documents/Personal/Facultad - UNLAM/2015/Programacion Avanzada/PacoMan/Imagenes/PacoMan/Finales/Up/01_upAbierta.png</location>
+		</link>
+		<link>
+			<name>src/pacoman/background.png</name>
+			<type>1</type>
+			<location>C:/Users/uht007/Documents/Personal/Facultad - UNLAM/2015/Programacion Avanzada/PacoMan/Imagenes/PacoMan/Finales/Background/background.png</location>
+		</link>
+		<link>
+			<name>src/pacoman/derecha.gif</name>
+			<type>1</type>
+			<location>C:/Users/uht007/Documents/Personal/Facultad - UNLAM/2015/Programacion Avanzada/PacoMan/Imagenes/PacoMan/Finales/Derecha/derecha.gif</location>
+		</link>
+		<link>
+			<name>src/pacoman/down.gif</name>
+			<type>1</type>
+			<location>C:/Users/uht007/Documents/Personal/Facultad - UNLAM/2015/Programacion Avanzada/PacoMan/Imagenes/PacoMan/Finales/Down/down.gif</location>
+		</link>
+		<link>
+			<name>src/pacoman/fantasma.gif</name>
+			<type>1</type>
+			<location>C:/Users/uht007/Documents/Personal/Facultad - UNLAM/2015/Programacion Avanzada/PacoMan/Imagenes/Fantasmas/fantasma.gif</location>
+		</link>
+		<link>
+			<name>src/pacoman/fondo.png</name>
+			<type>1</type>
+			<location>C:/Users/uht007/Documents/Personal/Facultad - UNLAM/2015/Programacion Avanzada/PacoMan/Imagenes/Laberinto/fondo.png</location>
+		</link>
+		<link>
+			<name>src/pacoman/izquierda.gif</name>
+			<type>1</type>
+			<location>C:/Users/uht007/Documents/Personal/Facultad - UNLAM/2015/Programacion Avanzada/PacoMan/Imagenes/PacoMan/Finales/Izq/izquierda.gif</location>
+		</link>
+		<link>
+			<name>src/pacoman/up.gif</name>
+			<type>1</type>
+			<location>C:/Users/uht007/Documents/Personal/Facultad - UNLAM/2015/Programacion Avanzada/PacoMan/Imagenes/PacoMan/Finales/Up/up.gif</location>
+		</link>
+	</linkedResources>
+</projectDescription>
